@@ -27,7 +27,6 @@ The project uses the following Python libraries:
 
 ## 🚀 Installation & Execution Guide
 
-Not provided.
 
 > However, this notebook is designed to be run in a Jupyter environment. To execute:
 >
@@ -46,11 +45,15 @@ Not provided.
 * Multiple data visualizations showing correlation matrices, distribution plots, and feature relationships using Seaborn and Matplotlib.
 * A residual plot and histogram of predictions versus actual values are displayed at the end.
 
-## 🔧 Future Improvements
 
-Not provided.
+## 👤 Author
 
-## 👤 Author Info
+## mehran Asgari
+## **Email:** [imehranasgari@gmail.com](mailto:imehranasgari@gmail.com).
+## **GitHub:** [https://github.com/imehranasgari](https://github.com/imehranasgari).
 
-Not provided.
+---
 
+## 📄 License
+
+This project is licensed under the MIT License – see the `LICENSE` file for details.
